@@ -1,0 +1,1 @@
+The training and EDA workflow is implemented in `src/train_model.py` to make it easy to run reproducibly from the terminal. You can also open this folder in VS Code and create an optional Jupyter notebook for additional exploratory analysis.

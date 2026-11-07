@@ -1,0 +1,37 @@
+{
+  "selected_model": "Random Forest",
+  "selection_rule": "Highest test-set F1; ROC-AUC used as tie-breaker",
+  "features": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "target_mapping": {
+    "No": 0,
+    "Yes": 1
+  },
+  "test_metrics": {
+    "model": "Random Forest",
+    "accuracy": 0.757640369580668,
+    "precision": 0.5325443786982249,
+    "recall": 0.7219251336898396,
+    "f1": 0.6129398410896708,
+    "roc_auc": 0.8246773584026589
+  }
+}
