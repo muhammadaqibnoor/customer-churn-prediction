@@ -8,6 +8,14 @@ Customer churn refers to customers discontinuing a company's services. The objec
 
 The project uses the IBM Telco Customer Churn dataset and compares three classification algorithms.
 
+## 🚀 Live Demo
+
+Try the deployed Customer Churn Prediction application:
+
+**[Launch Live App](https://customer-churn-prediction-2cpn3hmaqcjk6l4qrjzdr9.streamlit.app/)**
+
+The application allows users to enter customer information and receive a machine learning-based churn prediction.
+
 ## Objectives
 
 - Perform data cleaning and preprocessing.
